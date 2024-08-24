@@ -1,0 +1,31 @@
+#titulo_principal {
+    font-style: italic;
+    background-color: bisque;
+    text-align: center;
+    
+}
+
+h2 {
+    text-align: center;
+    background-color: blanchedalmond;
+    border-color: aliceblue;
+
+}
+
+article h3 {
+    background-color: beige;
+    text-align: center;
+}
+
+article p {
+    background-color: antiquewhite;
+    text-align: center;
+}
+
+body {
+    background-color: aliceblue;
+}
+
+main {
+    background-color: cornsilk;
+}
